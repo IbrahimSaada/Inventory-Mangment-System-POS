@@ -106,7 +106,7 @@ The *Inventory Management System* is a comprehensive solution for managing produ
 ![IMG-20240513-WA0214](https://github.com/user-attachments/assets/71fb4633-3833-4fff-a515-975f9da5776f)
 
 5. *Reports Section*
-6. 
+
 ![IMG-20240513-WA0203](https://github.com/user-attachments/assets/ab0c3c23-9b06-4225-acf2-4220d84bd872)
 
 7. *POS System*
@@ -114,10 +114,10 @@ The *Inventory Management System* is a comprehensive solution for managing produ
 ![IMG-20240513-WA0205](https://github.com/user-attachments/assets/f87e3953-55c7-430e-b2e6-e78a878ff99e)
 
 9. *Inventory Management*
+   
+![IMG-20240513-WA0213](https://github.com/user-attachments/assets/9fa6cb07-cfaa-4dd2-94ca-830c318afd9b)
 
-![IMG-20240513-WA0213](https://github.com/user-attachments/assets/10ebd45c-424f-4748-ae1f-228db34302f7)
-
-10. *Employee Management*
+11. *Employee Management*
 
 ![IMG-20240513-WA0215](https://github.com/user-attachments/assets/09c0f668-cca2-466e-947e-a32bb2e6fa53)
 

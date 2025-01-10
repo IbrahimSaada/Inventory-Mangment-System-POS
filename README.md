@@ -127,6 +127,3 @@ The *Inventory Management System* is a comprehensive solution for managing produ
 - *Desktop Application*: C#
 - *Database*: Microsoft SQL Server (MSSMS)
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
